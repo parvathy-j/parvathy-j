@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parvathy-j
 - 👀 I’m interested in - webdevelopment and honestly anything new and interesting 
 - 🌱 I’m currently learning ...MS Azure 
-- 💞️ I’m looking to collaborate on ...Anything really!
+- 💞️ I’m looking to collaborate on ...Anything, really!
 - 📫 How to reach me ..my email:parvathyjothi121@gmail.com
 
 <!---
