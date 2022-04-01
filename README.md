@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parvathy-j
 - 👀 I’m interested in - web development and honestly anything new and interesting 
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on anything, really!
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me my email:parvathyjothi121@gmail.com
 
 <!---
